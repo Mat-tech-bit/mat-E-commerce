@@ -14,46 +14,46 @@ type sneakerContent = {
 }
 
 const cardData: sneakerContent[] = [
-  {image: "public/menSneakers/men1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+  {image: "/public/menSneakers/men1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men2.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men2.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
     
-    {image: "public/menSneakers/men3.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men3.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men4.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men4.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men5.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men5.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men6.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men6.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men7.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men7.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men8.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men8.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/men9.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/men9.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/menSneaker1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/menSneaker1.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/menSneaker2.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/menSneaker2.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/menSneaker3.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/menSneaker3.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 
-    {image: "public/menSneakers/menSneaker4.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
+    {image: "/public/menSneakers/menSneaker4.jpg", company: "SNEAKER COMPANY", edition: "Fall Limited Edition Sneakers", note: "these low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer", price: "$100", percentage: "50%" },
 
 ]
 

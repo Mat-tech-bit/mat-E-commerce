@@ -12,10 +12,10 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 
 // ✅ Array of product images
 const productImages: string[] = [
-        "public/menSneakers/menSneaker1.jpg",
-        "public/menSneakers/menSneaker2.jpg",
-        "public/menSneakers/menSneaker3.jpg",
-        "public/menSneakers/menSneaker4.jpg",
+        "/public/menSneakers/menSneaker1.jpg",
+        "/public/menSneakers/menSneaker2.jpg",
+        "/public/menSneakers/menSneaker3.jpg",
+        "/public/menSneakers/menSneaker4.jpg",
 ];
 
 const FirstSneaker: React.FC = () => {
