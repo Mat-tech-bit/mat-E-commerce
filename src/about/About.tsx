@@ -8,13 +8,13 @@ const About = () => {
           <CardMedia
           component= "img"
           height="230"
-          image="/public/myAvatar1.jpg"
+          image="/myAvatar1.jpg"
           alt="Mattscript Profile"
           />
           <Grid size= {{xs: 12, sm: 4}} sx={{ textAlign: "center" }}>
             <Avatar
               alt="Your Name"
-              src="/public/myAvatar2.jpg" 
+              src="/myAvatar2.jpg" 
               sx={{ width: 180, height: 180, mx: "auto", mb: 2 }}
             />
           </Grid>
